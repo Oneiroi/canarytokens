@@ -10,7 +10,7 @@ mandrill==1.0.57
 pypng==0.0.18
 PyQRCode==1.2.1
 pytz==2015.4
-redis==2.10.3
+redis==4.5.3
 requests==2.7.0
 simplejson==3.7.3
 six==1.9.0
